@@ -15,3 +15,7 @@ strains:
     code: /varner/default/git-github-com-koraa-helix-test-git--master--
     content: https://github.com/koraa/helix-test.git#master
     static: https://github.com/koraa/helix-test.git#master
+  lars:
+    code: /varner/default/git-github-com-koraa-helix-test-git--master--
+    content: https://github.com/koraa/helix-test.git#master
+    static: https://github.com/koraa/helix-test.git#master
