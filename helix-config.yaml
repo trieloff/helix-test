@@ -16,6 +16,6 @@ strains:
     content: https://github.com/koraa/helix-test.git#master
     static: https://github.com/koraa/helix-test.git#master
   lars:
-    code: /trieloff/default/github-com-koraa-helix-test--master--html
+    code: /trieloff/default/github-com-koraa-helix-test--master--
     content: https://github.com/koraa/helix-test.git#master
     static: https://github.com/koraa/helix-test.git#master
